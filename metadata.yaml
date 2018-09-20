@@ -1,11 +1,16 @@
 _repo: Women-of-the-Classics_53487
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53487-h/images/cover.jpg
 creator:
   author:
     agent_name: Sturgeon, Mary C.
     gutenberg_agent_id: '41490'
     url: http://www.gutenberg.org/2009/agents/41490
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53487#Women-of-the-Classics
 gutenberg_issued: '2016-11-09'
 gutenberg_type: Text
 identifiers:
