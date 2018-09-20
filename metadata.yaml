@@ -1,0 +1,24 @@
+_repo: Women-of-the-Classics_53487
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sturgeon, Mary C.
+    gutenberg_agent_id: '41490'
+    url: http://www.gutenberg.org/2009/agents/41490
+description: ''
+gutenberg_issued: '2016-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53487'
+  lccn: '16015839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women in literature'
+- !lcc 'PA'
+- !lcsh 'Women in art'
+- GITenberg
+title: Women of the Classics
+url: http://www.gutenberg.org/ebooks/53487
